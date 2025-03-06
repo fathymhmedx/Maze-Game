@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Maze game project\Maze game project\obj\Debug\net8.0\Maze game project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Maze game project\Maze game project\obj\Debug\net8.0\Maze game project.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Maze game project\Maze game project\obj\Debug\net8.0\Maze game project.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Maze game project\Maze game project\obj\Debug\net8.0\Maze game project.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Maze game project\Maze game project\bin\Debug\net8.0\Maze game project.exe
+C:\Users\LENOVO\source\repos\Maze game project\Maze game project\bin\Debug\net8.0\Maze game project.deps.json
+C:\Users\LENOVO\source\repos\Maze game project\Maze game project\bin\Debug\net8.0\Maze game project.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Maze game project\Maze game project\bin\Debug\net8.0\Maze game project.dll
+C:\Users\LENOVO\source\repos\Maze game project\Maze game project\bin\Debug\net8.0\Maze game project.pdb
+C:\Users\LENOVO\source\repos\Maze game project\Maze game project\obj\Debug\net8.0\Maze game project.dll
+C:\Users\LENOVO\source\repos\Maze game project\Maze game project\obj\Debug\net8.0\refint\Maze game project.dll
+C:\Users\LENOVO\source\repos\Maze game project\Maze game project\obj\Debug\net8.0\Maze game project.pdb
+C:\Users\LENOVO\source\repos\Maze game project\Maze game project\obj\Debug\net8.0\Maze game project.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Maze game project\Maze game project\obj\Debug\net8.0\ref\Maze game project.dll
